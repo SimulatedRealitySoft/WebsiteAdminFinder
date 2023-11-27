@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cms_array">
+        <item>php</item>
+        <item>asp</item>
+        <item>js</item>
+        <item>cfm</item>
+        <item>cgi</item>
+        <item>brf</item>
+        <item>mix1</item>
+        <item>mix2</item>
+    </array>
+</resources>
+

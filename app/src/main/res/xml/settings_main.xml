@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:background="@color/colorBackground">
+    <PreferenceCategory
+        android:title="General">
+        <CheckBoxPreference
+            android:id="@+id/LockScreen"
+            android:title="@string/settings_lockscreen_title"
+            android:key="lockScreen"
+            android:summary="@string/settings_lockscreen_summary"
+            android:defaultValue="false"/>
+        <CheckBoxPreference
+            android:id="@+id/LockWifi"
+            android:title="@string/settings_lockwifi_title"
+            android:key="lockWifi"
+            android:summary="@string/settings_lockwifi_summary"
+            android:defaultValue="false"/>
+        <CheckBoxPreference
+            android:id="@+id/WakeLock"
+            android:title="@string/settings_wakelock_title"
+            android:key="wakeLock"
+            android:summary="@string/settings_wakelock_summary"
+            android:defaultValue="false"/>
+        <CheckBoxPreference
+            android:id="@+id/TimeStamp"
+            android:title="@string/settings_timestamp_title"
+            android:key="@string/timestamp"
+            android:summary="@string/settings_timestamp_summary"
+            android:defaultValue="false"/>
+        <CheckBoxPreference
+            android:title="@string/settings_notifications_title"
+            android:key="@string/shownotification"
+            android:summary="@string/settings_notifications_summary"
+            android:defaultValue="true"/>
+    </PreferenceCategory>
+</PreferenceScreen>
+

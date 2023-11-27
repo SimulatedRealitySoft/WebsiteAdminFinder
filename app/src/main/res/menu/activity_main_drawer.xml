@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <item
+        android:title="@string/drawer_app"
+        app:itemTextColor="#ffffff">
+        <menu>
+            <item
+                android:icon="@drawable/gmd_public"
+                android:id="@+id/scanner"
+                android:title="@string/drawer_scann"/>
+            
+            <item
+                android:icon="@drawable/gmd_pie_chart_outlined"
+                android:id="@+id/results"
+                android:title="@string/drawer_results"/>
+            
+            <item
+                android:icon="@drawable/gmd_settings"
+                android:id="@+id/settings"
+                android:title="@string/drawer_settings"/>
+            
+            <item
+                android:icon="@drawable/cmd_information_outline"
+                android:id="@+id/about"
+                android:title="@string/drawer_developer"/>
+        </menu>
+    </item>
+</menu>

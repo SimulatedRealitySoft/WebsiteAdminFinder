@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Website Admin Finder</string>
+    <string name="srs_splash">SRS</string>
+    <string name="cancel_button_label">Cancel</string>
+    <string name="choose_button_label">Select</string>
+    <string name="cms_prompt">Choose Option</string>
+    <string name="cms_option_chose">Please Choose an option:</string>
+    <string name="consoletext">
+ "<font color='#FFFF00'> [ </font><font color='#FF0000'>0</font><font color='#FFFF00'> ] </font><font color='#FFFFFF'>Welcome to Website Admin Finder.<br/><br/></font>
+
+ "
+ "<font color='#FFFF00'> [ </font><font color='#FF0000'>1</font><font color='#FFFF00'> ] </font><font color='#FFFFFF'>Check \'single site\' to scan a site.<br/></font>"
+ "<font color='#FFFF00'> [ </font><font color='#FF0000'>2</font><font color='#FFFF00'> ] </font><font color='#FFFFFF'>Check \'Multiple Sites\' to scan more than one site.<br/></font>"
+ "<font color='#FFFF00'> [ </font><font color='#FF0000'>0</font><font color='#FFFF00'> ] </font><font color='#FFFFFF'>(The file must contain 1 URL per line).</font>
+ "  </string>
+    <string name="default_dir">/sdcard</string>
+    <string name="error_dir_access">Directory cannot be accessed</string>
+    <string name="label_parent_dir">...</string>
+    <string name="label_parent_directory">Parent Directory</string>
+    <string name="last_edit">Last edited:</string>
+    <string name="search_menu_title">Search</string>
+
+    <string name="tv_results">Results: </string>
+    <string name="tv_results_empty">No Items</string>
+	<string name="dialog_results_title">Actions...</string>
+    <string name="dialog_results_open">Open URL</string>
+    <string name="dialog_results_copy">Copy to clipboard</string>
+    <string name="toast_results_copy">URL copied to clipboard</string>
+    
+    
+    <string name="shownotification">showNotification</string>
+    <string name="timestamp">timeStamp</string>
+    
+    <string name="srs_title">Simulated Reality Software</string>
+    <string name="srs_agree">Agree</string>
+    <string name="srs_decline">decline</string>
+    <string name="you">She never tests what I program ;(</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="use">"These Terms and Conditions will be governed and construed in accordance with the laws of Argentina. It is considered a crime if you violate the rules inside or outside Argentina while (or not) being a citizen with Argentine nationality. Any dispute or claim related to the software will be subject to the exclusive jurisdiction of the courts of Argentina. The decompilation of the application by reverse engineering is subject to intellectual property and copyright laws; Intellectual Property Law (Law No. 11,723). The Company grants you the non-exclusive, non-transferable, limited right and license to install and use this Application solely and exclusively for your personal use. You may not use the Application in any manner that could damage, disable, overburden, or impair the Application (or servers or networks connected to the Application), nor may you use the Application in any manner that could interfere with any other party’s use and enjoyment of the Application (or servers or networks connected to the Application). You agree that you are solely responsible for (and that The Company has no responsibility to you or to any third party for) your use of the Application, any breach of your obligations under the Terms and Conditions, and for the consequences (including any loss or damage which The Company may suffer) of any such breach. You agree that you will not, and will not allow any third party to, sell, license, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from our compiled APK or content that may be presented or accessed through the Application for any purpose. This application is free and its code can be given to anyone and can be accessed through our repository. You can make any modification (limited to the GNU/3 license) only from the official code.). You can't remove, obscure, or alter The Companys or any third partys copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Application. You may terminate these Terms and Conditions at any time by permanently deleting the Application from your mobile device in its entirety. Your rights automatically and immediately terminate without notice from The Company or any Third Party if you fail to comply with any provision of these Terms and Conditions. In such event, you must immediately delete the Application. To the maximum extent permitted by law, you agree to defend, indemnify and hold harmless The Company, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from your use of the Application, including your downloading, installation, or use of the Application, or your violation of these Terms and Conditions. Limitation of liability. These Terms and Conditions constitute the entire Agreement between you and the company relating to the application and govern your use of the Application, and completely replace any prior or contemporaneous agreements between you and the company regarding the Application. The failure of The Company to exercise or enforce any right or provision of these Terms and Conditions does not constitute a waiver of such right or provision, which will still be available to The Company. If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms and Conditions is invalid, then that provision will be removed from the Terms and Conditions without affecting the rest of the Terms and Conditions. The remaining provisions of these Terms and Conditions will continue to be valid and enforceable. The rights granted in these Terms and Conditions may not be assigned or transferred by either you or The Company without the prior written approval of the other party. Neither you nor The Company are permitted to delegate their responsibilities or obligations under these Terms and Conditions without the prior written approval of the other party. By continuing you agree to have read the terms and conditions of the application and fully agree with them."</string>
+    <string name="cms_scann">Scan</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_start">Start</string>
+    
+    <string name="drawer_app">Application</string>
+    <string name="drawer_scann">Scan site</string>
+    <string name="drawer_results">Results</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_developer">Developer</string>
+    
+    <string name="settings_lockscreen_title">Lock Screen</string>
+    <string name="settings_lockscreen_summary">Keep screen active while the app is running</string>
+    
+    <string name="settings_lockwifi_title">Lock Wi-Fi</string>
+    <string name="settings_lockwifi_summary">Keep Wi-Fi active while the app is running</string>
+    
+    <string name="settings_wakelock_title">Wake lock</string>
+    <string name="settings_wakelock_summary">Keep CPU running while the screen is locked</string>
+    
+    <string name="settings_timestamp_title">TimeStamp</string>
+    <string name="settings_timestamp_summary">Show timestamp of tasks on the terminal</string>
+    
+    <string name="settings_notifications_title">Notifications</string>
+    <string name="settings_notifications_summary">Show notifications</string>
+    
+    <string name="about_dev_title">Programmer</string>
+    <string name="about_dev_summary">Diego Calveyra ._.</string>
+    <string name="about_information">Useful information</string>
+    <string name="about_dev_github">My Github</string>
+    <string name="about_source_code">Source code</string>
+    <string name="about_licenses">Licenses</string>
+    <string name="about_app">About...</string>
+    <string name="about_dialog">"
+Website Admin Finder is an application that helps to find the administration panel on websites in an automated way. Its purpose is to evaluate the security of websites so that better security measures can be taken.
+
+USE:
+
+Simply go to Application > Scan.
+In that section you can select two types of scanning. Single scan or multiple scan. 
+
+The single scan is used to scan a single website, while the multiple scan allows you to scan several websites at the same time.
+
+USE OF MULTIPLE SCAN:
+
+You need to create a .txt file containing for each line the URL of the websites to scan. For example, here is a valid example.
+
+https://ejemplo.com
+https://ejemplo2.com
+
+select the file path or type it manually in the empty field.
+
+In the console you will see a log of the process. In case you have found an administration panel, you can go to: Application > Results, in order to view the found panels.
+   "</string>
+    <string name="console_results_negative">¡Not found!</string>
+    <string name="console_results_positive">¡Found!</string>
+    <string name="console_clear">Clear console</string>
+    <string name="cb_single_site">Single site</string>
+    <string name="cb_multiple_sites">Multiple sites</string>
+    <string name="process_started">Process started</string>
+    <string name="process_finished">Process finished!</string>
+    <string name="process_stopped">Process stopped</string>
+    <string name="process_site">Site to scan: </string>
+    <string name="process_options">Options choosed: </string>
+    <string name="fd_select_file">Select the file</string>
+    <string name="results_no_data">No data Found!</string>
+    <string name="dialog_warning_title">Warning!</string>
+    <string name="dialog_warning_option">Please select an option</string>
+    <string name="dialog_warning_url">Please enter a URL.</string>
+    <string name="dialog_warning_hosts">Please choose a .txt file from external card with all the host to scan</string>
+    <string name="dialog_warning_malformed">Please type a correct URL</string>
+    <string name="dialog_warning_slash">"Please remove the '/' character from the end of the url"</string>
+    <string name="grant_permission">Please grant Storage permission</string>
+    <string name="cms_results_help">For results go to, Application -> Results</string>
+    <string name="process_file_selected">File to scan:</string>
+</resources>

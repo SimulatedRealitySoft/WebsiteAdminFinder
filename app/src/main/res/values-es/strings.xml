@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">Cancelar</string>
+    <string name="choose_button_label">Seleccionar</string>
+    <string name="cms_prompt">Choose Option</string>
+    <string name="cms_option_chose">Selecciona una opción:</string>
+    <string name="consoletext">
+ "<font color='#FFFF00'> [ </font><font color='#FF0000'>0</font><font color='#FFFF00'> ] </font><font color='#FFFFFF'>Bienvenido a Website Admin Finder.<br/><br/></font>
+    
+ "
+ "<font color='#FFFF00'> [ </font><font color='#FF0000'>1</font><font color='#FFFF00'> ] </font><font color='#FFFFFF'>Marque \'sitio único\' para escanear un sitio.<br/></font>"
+ "<font color='#FFFF00'> [ </font><font color='#FF0000'>2</font><font color='#FFFF00'> ] </font><font color='#FFFFFF'>Marque \'Múltiples sitios\' para escanear más de un sitio.<br/></font>"
+ "<font color='#FFFF00'> [ </font><font color='#FF0000'>0</font><font color='#FFFF00'> ] </font><font color='#FFFFFF'>(El archivo debe contener 1 URL por cada línea).</font>
+ "  </string>
+    <string name="default_dir">/sdcard</string>
+    <string name="error_dir_access">Directory cannot be accessed</string>
+    <string name="label_parent_dir">...</string>
+    <string name="label_parent_directory">Parent Directory</string>
+    <string name="last_edit">Last edited:</string>
+    <string name="search_menu_title">Search</string>
+
+    <string name="tv_results">Resultados: </string>
+    <string name="tv_results_empty">Sin items</string>
+    <string name="dialog_results_title">Acciones...</string>
+    <string name="dialog_results_open">Abrir URL</string>
+    <string name="dialog_results_copy">Copiar al portapapeles</string>
+    <string name="toast_results_copy">URL copiado al portapapeles</string>
+    
+    <string name="srs_agree">Acepto</string>
+    <string name="srs_decline">Rechazar</string>
+    <string name="you">Ella nunca prueba lo que programo ;(</string>
+    <string name="shownotification">showNotification</string>
+    <string name="timestamp">timeStamp</string>
+    
+    <string name="settings_lockscreen_title">Bloquear pantalla</string>
+    <string name="settings_lockscreen_summary">Mantener la pantalla activada mientras la aplicación se está ejecutando</string>
+
+    <string name="settings_lockwifi_title">Bloquear Wi-Fi</string>
+    <string name="settings_lockwifi_summary">Mantener el Wi-Fi activado mientras la aplicación se está ejecutando</string>
+
+    <string name="settings_wakelock_title">Bloqueo de activación</string>
+    <string name="settings_wakelock_summary">Mantener el CPU funcionando mientras la pantalla está bloqueada</string>
+
+    <string name="settings_timestamp_title">Marca de tiempo</string>
+    <string name="settings_timestamp_summary">Mostrar el tiempo de las tareas en la terminal</string>
+
+    <string name="settings_notifications_title">Notificaciónes</string>
+    <string name="settings_notifications_summary">Mostrar notificaciónes</string>
+    
+    <string name="use">Estos Términos y Condiciones se regirán e interpretarán de acuerdo con las leyes de Argentina. Se considera delito la violación de las mismas dentro o fuera de Argentina siendo (o no) ciudadano con nacionalidad argentina. Cualquier disputa o reclamación relacionada con el software estará sujeta a la jurisdicción exclusiva de los tribunales de Argentina. La descompilación de la aplicación mediante ingeniería inversa está sujeta a las leyes de propiedad intelectual y derechos de autor; Ley de Propiedad Intelectual (Ley Nº 11.723). La Empresa le concede el derecho y la licencia no exclusivos, intransferibles y limitados para instalar y utilizar esta Aplicación única y exclusivamente para su uso personal. Usted no puede utilizar la Aplicación de ninguna manera que pueda dañar, deshabilitar, sobrecargar o perjudicar la Aplicación (o servidores o redes conectadas a la Aplicación), ni puede utilizar la Aplicación de ninguna manera que pueda interferir con el uso y disfrute de cualquier otra parte de la Aplicación (o servidores o redes conectadas a la Aplicación). Usted acepta que es el único responsable (y que La Empresa no tiene ninguna responsabilidad ante usted ni ante terceros) del uso que haga de la Aplicación, de cualquier incumplimiento de sus obligaciones en virtud de los Términos y Condiciones, y de las consecuencias (incluida cualquier pérdida o daño que pueda sufrir La Empresa) de dicho incumplimiento. Usted acepta que no venderá, concederá licencias, modificará, adaptará, traducirá, preparará obras derivadas, descompilará, realizará ingeniería inversa, desensamblará o intentará de cualquier otro modo obtener el código fuente de nuestro APK compilado o del contenido que pueda presentarse o al que pueda accederse a través de la Aplicación para cualquier fin. Esta aplicación es gratuita y su código puede entregarse a cualquiera y se puede acceder a él a través de nuestro repositorio. Puedes hacer cualquier modificación (limitada a la licencia GNU/3) sólo desde el código oficial). Usted no puede eliminar, ocultar o alterar los avisos de derechos de autor, marcas registradas u otros avisos de derechos de propiedad de La Empresa o de terceros, colocados o contenidos en la Aplicación o a los que se acceda junto con o a través de la misma. Usted puede terminar estos Términos y Condiciones en cualquier momento eliminando permanentemente la Aplicación de su dispositivo móvil en su totalidad. Sus derechos se extinguirán automática e inmediatamente sin previo aviso por parte de La Empresa o de cualquier Tercero si incumple alguna de las disposiciones de estos Términos y Condiciones. En tal caso, deberá eliminar inmediatamente la Aplicación. En la medida máxima permitida por la ley, usted acepta defender, indemnizar y eximir de toda responsabilidad a La Empresa, sus filiales y sus respectivos directores, directivos, empleados y agentes frente a cualesquiera reclamaciones, acciones, demandas o procedimientos, así como frente a cualesquiera pérdidas, responsabilidades, daños, costes y gastos (incluidos los honorarios razonables de abogados) derivados o acumulados por el uso que usted haga de la Aplicación, incluida su descarga, instalación o uso de la Aplicación, o por el incumplimiento por su parte de las presentes Condiciones. Limitación de responsabilidad. Estos Términos y Condiciones constituyen el Acuerdo completo entre usted y la empresa en relación con la aplicación y rigen su uso de la Aplicación, y sustituyen completamente cualquier acuerdo anterior o contemporáneo entre usted y la empresa en relación con la Aplicación. El hecho de que La Empresa no ejerza o haga valer cualquier derecho o disposición de estos Términos y Condiciones no constituye una renuncia a dicho derecho o disposición, que seguirá estando a disposición de La Empresa. Si un tribunal, con jurisdicción para decidir sobre este asunto, dictamina que alguna de las disposiciones de las presentes Condiciones Generales no es válida, dicha disposición será eliminada de las Condiciones Generales sin que ello afecte al resto de las Condiciones Generales. Las restantes disposiciones de las presentes Condiciones Generales seguirán siendo válidas y exigibles. Ni usted ni La Empresa podrán ceder o transferir los derechos otorgados en las presentes Condiciones Generales sin la aprobación previa por escrito de la otra parte. Ni usted ni La Empresa están autorizados a delegar sus responsabilidades u obligaciones en virtud de los presentes Términos y Condiciones sin la aprobación previa por escrito de la otra parte. Al continuar, usted acepta haber leído los términos y condiciones de la solicitud y estar plenamente de acuerdo con ellos.</string>
+    <string name="cms_scann">Escanear</string>
+    <string name="btn_stop">Detener</string>
+    <string name="btn_start">Empezar</string>
+    
+    <string name="drawer_app">Aplicación</string>
+    <string name="drawer_scann">Escanear sitio</string>
+    <string name="drawer_results">Resultados</string>
+    <string name="drawer_settings">Ajustes</string>
+    <string name="drawer_developer">Desarrollador</string>
+    
+    <string name="about_dev_title">Programador</string>
+    <string name="about_dev_summary">Diego Calveyra ._.</string>
+    <string name="about_information">Información útil</string>
+    <string name="about_dev_github">Mi Github</string>
+    <string name="about_source_code">Código fuente</string>
+    <string name="about_licenses">Licencias</string>
+    <string name="about_app">Acerca de...</string>
+    <string name="about_dialog">"
+Website Admin Finder es una aplicación que ayuda a encontrar el panel de administración en sitios web de forma automatizada. Su propósito es evaluar la seguridad de los sitios web para que se puedan tomar mejores medidas de seguridad.
+
+USO:
+
+Simplemente vaya a Aplicación > Escanear.
+En esa sección puede seleccionar dos tipos de escaneo. Escaneo único o escaneo múltiple. 
+
+El escaneo único se utiliza para escanear un solo sitio web, mientras que el escaneo múltiple le permite escanear varios sitios web al mismo tiempo.
+
+USO DEL ESCANEADO MÚLTIPLE:
+
+Necesita crear un archivo .txt que contenga para cada línea la URL de los sitios web a escanear. Por ejemplo
+
+https://ejemplo.com
+https://ejemplo2.com
+
+seleccione la ruta del archivo o escríbala manualmente en el campo vacío.
+
+En la consola verás un log del proceso. En caso de haber encontrado un panel de administración, puede ir a: Aplicación > Resultados, para ver los paneles encontrados.
+   "</string>
+    <string name="console_results_negative">¡No encontrado!</string>
+    <string name="console_results_positive">¡Encontrado!</string>
+    <string name="console_clear">Borrar consola</string>
+    <string name="cb_single_site">Sitio único</string>
+    <string name="cb_multiple_sites">Varios sitios</string>
+    <string name="process_started">Proceso iniciado</string>
+    <string name="process_finished">¡Proceso terminado!</string>
+    <string name="process_stopped">Proceso detenido</string>
+    <string name="process_site">Sitio a escanear: </string>
+    <string name="process_options">Opción seleccionada: </string>
+    <string name="fd_select_file">Selecciona el archivo</string>
+    <string name="results_no_data">Sin resultados</string>
+    <string name="dialog_warning_title">¡Advertencia!</string>
+    <string name="dialog_warning_option">Porfavor, selecciona una opción</string>
+    <string name="dialog_warning_url">Porfavor, ingresa una URL.</string>
+    <string name="dialog_warning_hosts">Porfavor, elija un archivo .txt desde el almacenamiento con todos los host para escanear</string>
+    <string name="dialog_warning_malformed">Porfavor, escribe una URL válida.</string>
+    <string name="dialog_warning_slash">"Porfavor, elimine el carácter '/' al final de la URL"</string>
+    <string name="grant_permission">Porfavor, concede permiso de almacenamiento</string>
+    <string name="cms_results_help">Para ver los resultados, vaya a Aplicación -> Resultados</string>
+    <string name="process_file_selected">Archivo a escanear:</string>
+</resources>
