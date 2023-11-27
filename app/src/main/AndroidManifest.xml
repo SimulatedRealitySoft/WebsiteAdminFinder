@@ -17,7 +17,6 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
         android:largeHeap="true"
-        android:name=".Applications"
         android:resizeableActivity="false">
 
         <activity
@@ -33,11 +32,7 @@
             </intent-filter>
 
         </activity>
-
-        <activity
-            android:name=".DebugActivity"
-            android:screenOrientation="portrait"/>
-
+	    
         <activity
             android:theme="@style/AppTheme"
             android:label="@string/app_name"
