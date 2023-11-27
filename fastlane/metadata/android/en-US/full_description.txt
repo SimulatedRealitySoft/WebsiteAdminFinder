@@ -1,0 +1,7 @@
+Website Admin Finder allows you to audit the security of websites in search of administration panels automatically.
+
+Some features:
+
+- Light application.
+- Friendly interface.
+- Multiple sites search.
